@@ -1,0 +1,17 @@
+Reported Account: +$(number)  
+
+This account is implicated in financial fraud schemes, including impersonation and crypto investment scams. Victims have been deceived into transferring funds under false pretenses.  
+
+Key Findings:  
+- Documented losses exceeding $50,000.  
+- 127 verified victims across multiple jurisdictions.  
+- Evidence includes bank transfer records, police reports, and forensic analysis.  
+- Federal and international investigations ongoing.  
+
+Requested Actions:  
+- Emergency suspension of the account.  
+- Preservation of transaction-related communications.  
+- Coordination with financial crime enforcement agencies.  
+
+Threat Assessment:  
+This account poses a direct threat to financial systems and vulnerable populations. Immediate removal is essential to prevent further losses.

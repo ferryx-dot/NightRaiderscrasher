@@ -1,0 +1,17 @@
+Reported Account: +$(number)  
+
+This account has engaged in systematic spamming and abuse of WhatsApp’s communication infrastructure. The suspect floods users with unsolicited messages, advertisements, and malicious links, disrupting platform integrity.  
+
+Key Findings:  
+- Thousands of unsolicited bulk messages sent daily.  
+- Malicious links embedded in spam messages.  
+- Victims report harassment and device compromise.  
+- Evidence includes screenshots, forensic analysis, and user complaints.  
+
+Requested Actions:  
+- Immediate suspension of the account.  
+- Preservation of communication logs for forensic review.  
+- Blocking of associated IP addresses and linked accounts.  
+
+Threat Assessment:  
+Spamming undermines user trust, damages platform reputation, and facilitates further fraud. Urgent removal is required to protect WhatsApp’s ecosystem.

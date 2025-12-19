@@ -1,0 +1,16 @@
+Case Reference: CASE-9R0HD0DJM  
+Reported Account: +$(number)  
+
+This account has repeatedly violated WhatsApp’s terms of service and community guidelines. Activities include impersonation, unauthorized bulk messaging, and distribution of harmful content.  
+
+Key Findings:  
+- Multiple violations documented.  
+- Evidence includes screenshots, forensic analysis, and user complaints.  
+
+Requested Actions:  
+- Immediate suspension of the account.  
+- Preservation of communications for compliance review.  
+- Coordination with platform security teams.  
+
+Threat Assessment:  
+Repeated violations undermine platform integrity. Immediate removal is required to enforce community standards.

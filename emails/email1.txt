@@ -1,0 +1,19 @@
+Case Reference: CASE-9R0HD0DJM  
+Reported Account: +$(number)  
+
+This account has been identified as distributing illegal content involving minors, constituting child sexual abuse material (CSAM). Such activity is a severe violation of WhatsApp’s community standards, international law, and human rights.  
+
+Key Findings:  
+- Multiple verified reports of CSAM shared through this account.  
+- Victims include children and minors, placing them at risk of exploitation.  
+- Evidence includes screenshots, forensic communication analysis, and police reports.  
+- International law enforcement agencies (Interpol, FBI, Homeland Security) have been notified.  
+
+Requested Actions:  
+1. Immediate suspension of the account within 5 minutes.  
+2. Preservation of all communications, metadata, and device/IP identifiers.  
+3. Coordination with child protection agencies and law enforcement.  
+4. Activation of victim protection protocols.  
+
+Threat Assessment:  
+This account represents an imminent danger to children worldwide. Failure to act immediately will enable further exploitation and expose WhatsApp to liability under child protection laws.
