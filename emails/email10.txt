@@ -1,0 +1,16 @@
+Subject: Final Warning - Account Termination Request
+
+Account Management,
+
+This is a final warning and termination request for phone number +$(number).
+
+After multiple violations and warnings, this account continues to:
+- Violate community guidelines
+- Engage in fraudulent activities
+- Harass other users
+
+We formally request immediate and permanent account termination.
+
+Termination Request ID: TERM-$(number)-FINAL
+
+Platform Safety Council
